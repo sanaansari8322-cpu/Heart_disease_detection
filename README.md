@@ -56,8 +56,6 @@ Models are evaluated using:
 - F1 score
 - Confusion matrix
 
-(Add your final model performance here once evaluated.)
-
 ## Results Summary
 The trained models successfully classify the presence of heart disease with reliable performance. Visualizations such as heatmaps and confusion matrices help explain feature importance and model behavior.
 
