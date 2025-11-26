@@ -50,12 +50,11 @@ The notebook includes and evaluates the following models:
 
 ## Model Evaluation
 Models are evaluated using:
-- Accuracy score
-- Precision
-- Recall
-- F1 score
-- Confusion matrix
-
+- Accuracy score :- 0.85
+- Precision :- class0=0.85, class-1=0.61
+- Recall:- class0=0.99, class-1=0.08
+- F1 score:- class0=0.92, class-1=0.14
+- 
 ## Results Summary
 The trained models successfully classify the presence of heart disease with reliable performance. Visualizations such as heatmaps and confusion matrices help explain feature importance and model behavior.
 
